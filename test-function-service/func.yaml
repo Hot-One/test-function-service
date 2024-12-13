@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: test-function-service
+runtime: go
+created: 2024-12-13T13:51:10.714723+05:00
